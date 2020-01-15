@@ -1,2 +1,0 @@
-# aboutmeexercise
-afternoon excercise
