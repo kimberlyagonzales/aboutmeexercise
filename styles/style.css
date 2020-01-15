@@ -1,0 +1,16 @@
+.large{
+	font-size: 1000%;
+	width: 100%;
+	margin: auto;
+	text-align: center;
+}
+
+h1 {
+	color: dodgerblue;
+}
+
+.center{
+	width: 100%;
+	margin: auto;
+	text-align: center;
+}
